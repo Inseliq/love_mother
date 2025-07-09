@@ -27,6 +27,7 @@ header {
     max-width: 1200px;
     margin: auto;
     padding: 30px;
+    flex-direction: column;
 }
 
 .profile-pic {
